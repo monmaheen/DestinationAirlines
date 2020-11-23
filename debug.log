@@ -1,0 +1,6 @@
+[1111/180645.202:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1113/163417.471:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/125013.425:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1121/193723.657:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aatik\AppData\Local\AVG\Browser\User Data\Crashpad\attachments\4bcb5b3e-8dc5-4e26-9dd1-b254dc344b15: The system cannot find the path specified. (0x3)
+[1122/004445.456:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/172332.333:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
